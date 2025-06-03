@@ -7,7 +7,7 @@
   <p><h2>Skills</h2></p>
   <p><h3>Backend</h3></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,express&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,express,nodejs&theme=light" />
   </p>
   <p><h3>Frontend</h3></p>
   <p align="center">
