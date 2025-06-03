@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=200&section=header&text=Jaemoon's%20Github&animation=fadeIn&fontSize=50&fontColor=ffffff&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=200&section=header&text&animation=fadeIn&fontSize=50&fontColor=ffffff&fontAlignY=38" />
 </div>
 <div align="center">
   <p><h2>Skills</h2></p>
