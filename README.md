@@ -33,6 +33,7 @@
 
 <div align="center">
   <p><h2>Status</h2></p>
+  </br>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=jaemoon99&show_icons=true" />
   </p>
