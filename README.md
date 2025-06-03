@@ -7,27 +7,34 @@
   <p><h2>Skills</b></p>
   <p><h3>Backend</b></p>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,express&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,express&theme=light" />
   </p>
   <p><b>Frontend</b></p>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,nextjs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,nextjs&theme=light" />
   </p>
   <p><b>Database</b></p>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongo,redis,firebase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongo,redis,firebase&theme=light" />
   </p>
   <p><b>AI</b></p>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=light" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=light" />
   </p>
   <p><b>Infra&DevOps</b></p>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,ubuntu,docker,nginx,rabbitmq&theme=light" />
+    <img src="https://skillicons.dev/icons?i=aws,ubuntu,docker,nginx,rabbitmq&theme=light" />
   </p>
   <p><b>Communication</b></p>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,figma,discord,notion,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,figma,discord,notion,postman&theme=light" />
+  </p>
+</div>
+
+<div align="center">
+  <p><h2>Status</b></p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=jaemoon99&show_icons=true" />
   </p>
 </div>
 <div align="center">
