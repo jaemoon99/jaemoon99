@@ -34,8 +34,8 @@
 <div align="center">
   <p><h2>Status</h2></p>
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaemoon99&theme=light&layout=donut" />
-  <img height=215 src="https://github-readme-stats.vercel.app/api?username=jaemoon99" />
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaemoon99&theme=light&layout=compact" />
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=jaemoon99&layout=compact" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=200&section=footer" />
