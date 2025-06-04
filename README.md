@@ -27,7 +27,7 @@
   </p>
   <p><h3>Communication</h3></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,figma,discord,notion,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,discord,notion,postman&theme=light" />
   </p>
 </div>
 
