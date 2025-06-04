@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,discord,notion,postman&theme=light" />
   </p>
 </div>
-
+</br>
 <div align="center">
   <p><h2>Status</h2></p>
   </br>
